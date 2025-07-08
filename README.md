@@ -1,6 +1,6 @@
 # Hrishi - Machine Learning Intern
 
-![Profile Image](https://avatars.githubusercontent.com/u/95323720?v=4)
+![Profile Image](https://avatars.githubusercontent.com/u/137533306?s=400&u=32d5c91f2ecd069ede971b83832139da14b9bb16&v=4)
 
 ## About Me
 Aspiring and passionate Machine Learning Intern with strong problem-solving skills and hands-on experience in Python, C, Java, and Git. Adept at tackling challenging problems and developing creative solutions.
