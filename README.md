@@ -1,4 +1,4 @@
-# Hrishi - Machine Learning Intern
+# Hrishinandan N
 
 <!--![Profile Image](https://avatars.githubusercontent.com/u/137533306?s=400&u=32d5c91f2ecd069ede971b83832139da14b9bb16&v=4)-->
 
