@@ -1,12 +1,50 @@
-- 👋 Hi, I’m Hrishinandan N
-- 👀 I’m interested in designing and developing innovative ideas and projects in various domains of technology
-- 🌱 I’m currently learning Basics of C, Java, Oops concepts and more...
-<!--- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡  Fun fact: ... --->
+# Hrishi - Machine Learning Intern
 
-<!---
-HRISHI-26/HRISHI-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Image](https://avatars.githubusercontent.com/u/95323720?v=4)
+
+## About Me
+Aspiring and passionate Machine Learning Intern with strong problem-solving skills and hands-on experience in Python, C, Java, and Git. Adept at tackling challenging problems and developing creative solutions.
+
+## Skills
+- Python
+- C
+- Java
+- Git
+- Problem Solving
+
+<!--## Projects
+- **[Project Name 1](#)**: Short description of what this project does and your role.
+- **[Project Name 2](#)**: Short description of what this project does and your role.
+- **[More Projects…](https://github.com/HRISHI-26?tab=repositories)**
+
+## Achievements & Certifications
+- Winner, XYZ Hackathon 2024
+- [Machine Learning Specialization – Coursera](#)
+- [Other Relevant Certification](#) -->
+
+## GitHub Statistics
+- **Username:** [HRISHI-26](https://github.com/HRISHI-26)
+- **Public Repositories:** 17
+- **Followers:** 2
+- **Following:** 2
+- **Account Created:** June 23, 2023
+- **Most Used Languages:** Python, Java, C
+
+## Social Links
+- [Portfolio](https://hrishi-26.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/hrishinandan/)
+- [GitHub](https://github.com/HRISHI-26)
+- [YouTube: HrishiLearnsTech](https://www.youtube.com/@HrishiLearnsTech)
+
+<!--## Resume
+- [Download My Resume](#) --> <!-- Add your resume link here -->
+
+## Contact
+- Email: hrishinandanofficial@gmail.com <!-- Replace with your actual email -->
+
+## Approach
+Professional yet creative in learning and sharing knowledge about technology and machine learning.
+
+---
+
+*Let’s connect and build something amazing together!*
