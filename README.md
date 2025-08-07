@@ -26,7 +26,7 @@ Aspiring and passionate Machine Learning Intern with strong problem-solving skil
 - **Username:** [HRISHI-26](https://github.com/HRISHI-26)
 - **Public Repositories:** 17
 - **Followers:** 2
-- **Following:** 2
+- **Following:** 0
 - **Account Created:** June 23, 2023
 - **Most Used Languages:** Python, Java, C
 
